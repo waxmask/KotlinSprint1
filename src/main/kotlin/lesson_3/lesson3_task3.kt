@@ -16,5 +16,5 @@ fun main() {
         $inputNumber * 10 = ${inputNumber * 10}
     """.trimIndent()
 
-    println("$outputTable")
+    println(outputTable)
 }
